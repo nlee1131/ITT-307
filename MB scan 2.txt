@@ -1,0 +1,72 @@
+Malwarebytes
+www.malwarebytes.com
+
+-Log Details-
+Scan Date: 1/26/19
+Scan Time: 9:37 AM
+Log File: 0477a14a-2191-11e9-8402-06b7fbd98bcc.json
+
+-Software Information-
+Version: 3.6.1.2711
+Components Version: 1.0.527
+Update Package Version: 1.0.8976
+License: Trial
+
+-System Information-
+OS: Windows 10 (Build 17134.523)
+CPU: x64
+File System: NTFS
+User: \
+
+-Scan Summary-
+Scan Type: Threat Scan
+Scan Initiated By: Manual
+Result: Completed
+Objects Scanned: 256957
+Threats Detected: 0
+Threats Quarantined: 0
+Time Elapsed: 1 min, 0 sec
+
+-Scan Options-
+Memory: Enabled
+Startup: Enabled
+Filesystem: Enabled
+Archives: Enabled
+Rootkits: Disabled
+Heuristics: Enabled
+PUP: Detect
+PUM: Detect
+
+-Scan Details-
+Process: 0
+(No malicious items detected)
+
+Module: 0
+(No malicious items detected)
+
+Registry Key: 0
+(No malicious items detected)
+
+Registry Value: 0
+(No malicious items detected)
+
+Registry Data: 0
+(No malicious items detected)
+
+Data Stream: 0
+(No malicious items detected)
+
+Folder: 0
+(No malicious items detected)
+
+File: 0
+(No malicious items detected)
+
+Physical Sector: 0
+(No malicious items detected)
+
+WMI: 0
+(No malicious items detected)
+
+
+(end)
