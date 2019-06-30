@@ -1,0 +1,72 @@
+Malwarebytes
+www.malwarebytes.com
+
+-Log Details-
+Scan Date: 6/30/19
+Scan Time: 2:21 AM
+Log File: 18bfcab2-9b10-11e9-a0d5-000c2925ca32.json
+
+-Software Information-
+Version: 3.8.3.2965
+Components Version: 1.0.613
+Update Package Version: 1.0.11320
+License: Trial
+
+-System Information-
+OS: Windows 10 (Build 18362.30)
+CPU: x64
+File System: NTFS
+User: System
+
+-Scan Summary-
+Scan Type: Threat Scan
+Scan Initiated By: Scheduler
+Result: Completed
+Objects Scanned: 261090
+Threats Detected: 0
+Threats Quarantined: 0
+Time Elapsed: 3 min, 12 sec
+
+-Scan Options-
+Memory: Enabled
+Startup: Enabled
+Filesystem: Enabled
+Archives: Enabled
+Rootkits: Disabled
+Heuristics: Enabled
+PUP: Detect
+PUM: Detect
+
+-Scan Details-
+Process: 0
+(No malicious items detected)
+
+Module: 0
+(No malicious items detected)
+
+Registry Key: 0
+(No malicious items detected)
+
+Registry Value: 0
+(No malicious items detected)
+
+Registry Data: 0
+(No malicious items detected)
+
+Data Stream: 0
+(No malicious items detected)
+
+Folder: 0
+(No malicious items detected)
+
+File: 0
+(No malicious items detected)
+
+Physical Sector: 0
+(No malicious items detected)
+
+WMI: 0
+(No malicious items detected)
+
+
+(end)
